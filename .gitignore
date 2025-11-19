@@ -206,3 +206,18 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 .DS_Store
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# CatBoost cache
+catboost_info/
+
